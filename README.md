@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Ahmed+Nasser+Sayed;AI+%26+Machine+Learning+Engineer;Computer+Vision+Enthusiast;Deep+Learning+Developer;Data+Analyst;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Ahmed+Nasser+Sayed;AI+%26+Machine+Learning+Engineer;Computer+Vision;Deep+Learning+Developer;Data+Analyst;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,14 +30,11 @@
 
 ## 🎯 Current Focus
 
-- Computer Vision
-- Deep Learning
-- Image Classification
-- Transfer Learning
-- Data Science
 - Artificial Intelligence
-- Model Optimization
-
+- Deep Learning
+- Computer Vision
+- Data Science
+- Data Analysis
 ---
 
 # 🛠️ Tech Stack
